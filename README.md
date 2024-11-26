@@ -61,7 +61,9 @@ Follow these steps to set up the project locally:
 
 3. **Adjust Model**: Modify the model and API settings by configuring the `google-generativeai` API key and selecting a model like `gemini-1.5-flash`.
 
-## Project Structure
+## Author
 
-The project directory structure is as follows:
+- **Author**: Zakariya (Rishi R)
+- **GitHub**: [Rishi123](https://github.com/RishiR123)
+- **Email**: [rishiininternet@Gmail.com]
 
