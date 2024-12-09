@@ -2,3 +2,4 @@ pandas
 langchain-community
 google-generativeai
 langchain-google-genai
+chromadb
